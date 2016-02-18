@@ -20,3 +20,4 @@
 @property (retain, nonatomic) IBOutlet UIImageView *dioView;
 
 @end
+  
